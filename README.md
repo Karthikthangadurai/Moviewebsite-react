@@ -1,12 +1,50 @@
-# React + Vite
+ 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly **Movie App** built with **React, TailwindCSS, and Vite**, deployed on **Vercel**.
+This project integrates **The Movie Database (TMDB) API** to display popular movies, support search, pagination, and manage a personalized watchlist.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 📌 **Navbar** with navigation links and live watchlist count
+* 🔍 **Search movies** by title
+* 🎞️ **Movie list display** with poster, release date, and favorite toggle
+* ❤️ **Watchlist management** (add/remove favorite movies)
+* 🎯 **Genre filter** to easily explore movies by category
+* ⏮️ **Pagination controls** (Previous / Next page buttons)
+* ⚡ Built with **React Hooks**:
 
-## Expanding the ESLint configuration
+  * `useState` – state management
+  * `useEffect` – API calls & side effects
+  * `useContext` – global watchlist management
+* 📱 Fully **responsive design** using **TailwindCSS**
+* ☁️ **Deployed on Vercel** for seamless hosting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **React.js** (with Hooks & Context API)
+* **Vite** (lightweight build tool)
+* **TailwindCSS** (utility-first styling)
+* **React Router DOM** (routing)
+* **React Icons** (UI icons)
+* **TMDB API** (movie data source)
+* **Vercel** (deployment)
+
+## 🌍 Live Demo
+
+👉 [View Deployed App on Vercel](https://moviewebsite-react.vercel.app/)
+
+## ✨ Future Improvements
+
+* 🌟 Add movie details page with trailer & cast info
+* 🌟 Implement user authentication
+* 🌟 Save watchlist to local storage or backend
+
+## 👨‍💻 Author
+
+Developed by **Karthik T**
+📧 Contact: [your.email@example.com](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) | [GitHub](https://github.com/your-username)
+
+---
+
+Do you want me to also **add badges** (React, Tailwind, Vercel, TMDB API) at the top of your README to make it look even more professional?

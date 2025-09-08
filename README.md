@@ -42,9 +42,6 @@ This project integrates **The Movie Database (TMDB) API** to display popular mov
 ## 👨‍💻 Author
 
 Developed by **Karthik T**
-📧 Contact: [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) | [GitHub](https://github.com/your-username)
+📧 Contact: [karthikthangaduraik@gmail.com](karthikthangaduraik@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/karthikthangadurai/) | [GitHub](https://github.com/Karthikthangadurai)
 
----
-
-Do you want me to also **add badges** (React, Tailwind, Vercel, TMDB API) at the top of your README to make it look even more professional?
